@@ -1,4 +1,6 @@
 # DQNPong
+Final Files for result generation is kept in For_result folder
+
 An implementation of Reinforcement Learning algorithm on ATARI Game Pong.  Deep Q network implementation done with vanilla model, Double DQN and Dueling Double DQN.
 
 Code execution instructions for ploting the data from previous data.
